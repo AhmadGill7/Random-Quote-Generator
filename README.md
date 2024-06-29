@@ -1,1 +1,1 @@
-Surge Link : [racials-poison.surge.sh](Link)
+Surge Link : [Link](racials-poison.surge.sh)
