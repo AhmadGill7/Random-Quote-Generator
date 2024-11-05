@@ -15,7 +15,7 @@ const generate = () => {
         },
     };
 
-    $.ajax(settings).done(function (response) {
+    fetch(settings).done(function (response) {
         // Assuming response is an array of quotes
         if (response[0].length > 0) {
             // const randomQuote = response[Math.floor(Math.random() * response.length)];
